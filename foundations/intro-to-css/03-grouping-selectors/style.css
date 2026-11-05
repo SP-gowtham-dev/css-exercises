@@ -1,16 +1,17 @@
-.button{
+.normal,
+.inverted{
     font-size: 28px;
     font-family: Helvetica, Times New Roman, sans-serif;
 
 
 }
 
-.one {
+.normal {
     background-color: black;
     color: white;
 
 }
 
-.two {
+.inverted {
     background-color: yellow;
 }
